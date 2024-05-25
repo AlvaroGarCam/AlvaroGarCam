@@ -1,10 +1,7 @@
-## Hola! 👋
+## Hello! 👋
 
 <p>
-  Me llamo Álvaro Garrido Campos y actualmente estoy estudiando 1º DAW en IES l'Estaciò, Ontinyent (Valencia). Siempre me ha fascinado todo lo que tenga que ver con las matemáticas o la lógica, y me considero una persona bastante racional en ese aspecto. Gracias a eso me considero una persona trabajadora, metódica y resolutiva.
-
-  Todo lo que he aprendido hasta ahora me ha fascinado y quiero seguir explorando este mundo y ver más sorpresas tiene para mi. Estoy ansioso de acabar mis estudios y entrar en el mundo laboral como desarrollador web. :grin:
-  
+  Me llamo Álvaro Garrido Campos y actualmente estoy estudiando 1º DAW en IES l'Estaciò, Ontinyent (Valencia). 
 </p>
 
 ## ![PC](https://img.icons8.com/color/48/000000/computer.png) WEB DEVELOPMENT - TECHNOLOGIES & TOOLS I'VE USED:
@@ -45,3 +42,13 @@
 ## 📫 Contact:
 
 - 📧 Gmail: al.garridocampos@gmail.com
+
+
+## About me
+
+<p>  
+    Siempre me ha fascinado todo lo que tenga que ver con las matemáticas o la lógica, y me considero una persona bastante racional en ese aspecto. Gracias a eso me considero una persona trabajadora, metódica y resolutiva.
+
+  Todo lo que he aprendido hasta ahora me ha fascinado y quiero seguir explorando este mundo y ver más sorpresas tiene para mi. Estoy ansioso de acabar mis estudios y entrar en el mundo laboral como desarrollador web. :grin:
+  
+</p>
