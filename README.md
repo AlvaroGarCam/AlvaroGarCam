@@ -47,7 +47,7 @@
 ## About me
 
 <p>  
-    Siempre me ha fascinado todo lo que tenga que ver con las matemáticas o la lógica, y me considero una persona bastante racional en ese aspecto. Gracias a eso me considero una persona trabajadora, metódica y resolutiva.
+    Siempre me ha llamado la atención todo lo que tenga que ver con las matemáticas o la lógica, y me considero una persona bastante racional en ese aspecto. Gracias a eso me considero una persona trabajadora, metódica y resolutiva.
 
   Todo lo que he aprendido hasta ahora me ha fascinado y quiero seguir explorando este mundo y ver más sorpresas tiene para mi. Estoy ansioso de acabar mis estudios y entrar en el mundo laboral como desarrollador web. :grin:
   
