@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 <p>
-  Me llamo Álvaro Garrido Campos y actualmente estoy estudiando 1º DAW en IES l'Estació, Ontinyent (Valencia). 
+  Me llamo Álvaro Garrido Campos y actualmente estoy estudiando 2º DAW en IES l'Estació, Ontinyent (Valencia). 
 </p>
 
 ## ![PC](https://img.icons8.com/color/48/000000/computer.png) WEB DEVELOPMENT - TECHNOLOGIES & TOOLS I'VE USED:
