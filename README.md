@@ -6,41 +6,27 @@
 
 ## ![PC](https://img.icons8.com/color/48/000000/computer.png) WEB DEVELOPMENT - TECHNOLOGIES & TOOLS I'VE USED:
 
-## <img src="https://img.icons8.com/color/48/000000/web-design--v1.png" alt="Web Design" style="vertical-align:middle"> Front End
+### Backend:
+| Express JS | Prisma | PHP | TypeORM | JWT |
+|------------|--------|-----|---------|-----|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express JS Logo"/><br>![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma Logo"/><br>![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP Logo"/><br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</div> | <div align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/typeorm.svg" width="40" height="40" alt="TypeORM Logo"/><br>![TypeORM](https://img.shields.io/badge/TypeORM-E535AB?style=for-the-badge&logo=typescript&logoColor=white)</div> | <div align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/jwt-icon.svg" width="40" height="40" alt="JWT Logo"/><br>![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)</div> |
 
-| | 
-| :---: | 
-| [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/) |
-| [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) |
-| [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+### Frontend:
+| JavaScript | Angular | HTML5 | CSS3 |
+|------------|---------|-------|------|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript Logo"/><br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular Logo"/><br>![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5 Logo"/><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3 Logo"/><br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</div> |
 
+### Gestor DB:
+| MySQL | MongoDB |
+|-------|---------|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL Logo"/><br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB Logo"/><br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</div> |
 
-
-## <img src="https://img.icons8.com/color/48/000000/server.png" alt="Server" style="vertical-align:middle"> Back End
-
-| |
-| :---: |
-| [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/) |
-| [![MVC](https://img.shields.io/badge/-MVC-5C2D91?style=flat)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) |
-| [![OOP](https://img.shields.io/badge/-OOP-007ACC?style=flat)](https://en.wikipedia.org/wiki/Object-oriented_programming) |
-| [![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)](https://jwt.io/) |
-| [![XML](https://img.shields.io/badge/-XML-1572B6?style=flat&logo=xml&logoColor=white)](https://www.w3schools.com/xml/) |
-
-
-## <img src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="Data Management" style="vertical-align:middle"> Data Management
+### Control de versiones:
+| GitHub |
+|--------|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Logo"/><br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</div> |
 
 
-| | 
-| :---: | 
-| [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) |
-| [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-
-
-
-
-## 📊 GitHub Stadistics
-[![](https://github-readme-stats.vercel.app/api?username=AlvaroGarCam&show_icons=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact:
 
